@@ -12,7 +12,7 @@
  
   *Competenze trasversali :*
   - Comunicazione efficace
-  - Collaborazione e lavoro di squadra:*
+  - Collaborazione e lavoro di squadra
   - Problem solving
   - Gestione del tempo
   - Adattabilità
